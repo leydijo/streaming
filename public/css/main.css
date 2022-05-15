@@ -1,0 +1,54 @@
+.streaming{
+    background-image: url("/img/home.jpg"); 
+    height: 100%; 
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.title{
+    color: #fff;
+}
+
+.btn-home{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.start{
+    margin-top: 29px;
+}
+
+.box{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px auto; 
+    background-color: #3a5254f0;
+    border-radius: 15px;
+    margin-top: 30px;
+}
+.formulario{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    text-align: left;
+    font-family: sans-serif;
+    margin-top: 30px;
+    color: #fff;
+  
+}
+ form{
+    width: 600px;
+ }
+.enc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%; 
+}
+.img_encuesta{
+    width: 87%;
+}
+.enviar{
+    margin-left: 212px;
+}
